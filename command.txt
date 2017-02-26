@@ -1,0 +1,2 @@
+hadoop jar /home/acadgild/Desktop/InvalidRecords.jar /user/acadgild/television.txt /user/acadgild/out_invalid
+
